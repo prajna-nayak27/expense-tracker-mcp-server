@@ -1,0 +1,87 @@
+{
+    "food": [
+        "fruits",
+        "vegetables",
+        "grains",
+        "proteins",
+        "dairy",
+        "dinner",
+        "snacks",
+        "coffee",
+        "tea",
+        "other"
+    ],
+    "transportation": [
+        "public_transport",
+        "ride_sharing",
+        "personal_vehicle",
+        "fuel",
+        "maintenance",
+        "other"
+    ],
+    "utilities": [
+        "electricity",
+        "water",
+        "gas",
+        "internet",
+        "trash_service",
+        "other"
+    ],
+    "entertainment": [
+        "movies",
+        "concerts",
+        "sports_events",
+        "hobbies",
+        "subscriptions",
+        "other"
+    ],
+    "health": [
+        "medical_bills",
+        "medications",
+        "insurance",
+        "fitness",
+        "other"
+    ],
+    "housing": [
+        "rent",
+        "mortgage",
+        "property_taxes",
+        "home_insurance",
+        "repairs",
+        "other"
+    ],
+    "personal_care": [
+        "clothing",
+        "haircuts",
+        "toiletries",
+        "spa_services",
+        "other"
+    ],
+    "education": [
+        "tuition",
+        "books",
+        "supplies",
+        "courses",
+        "other"
+    ],
+    "miscellaneous": [
+        "gifts",
+        "donations",
+        "other"
+    ],
+    "finance": [
+        "savings",
+        "investments",
+        "debt_repayment",
+        "other"
+    ],
+    "travel": [
+        "accommodation",
+        "flights",
+        "meals",
+        "activities",
+        "holiday_packages",
+        "hotel",
+        "other"
+    ]
+}
